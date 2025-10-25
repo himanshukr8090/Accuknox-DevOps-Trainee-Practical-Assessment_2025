@@ -35,7 +35,9 @@ Deploy the wisecow application as a k8s app
 
 
 3. Github action for creating new image when changes are made to this repo
-4. [Challenge goal]: Enable secure TLS communication for the wisecow app.
+   <img width="926" height="900" alt="image" src="https://github.com/user-attachments/assets/95f1589d-3de3-4c17-bbde-1579f75b82de" />
+
+5. [Challenge goal]: Enable secure TLS communication for the wisecow app.
    <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/a5eed015-9a97-42e3-83ab-87505dd3ec67" />
 
 
